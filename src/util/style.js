@@ -9,5 +9,5 @@ export const style = {
     flexCenter: 'flex justify-center items-center',
     flexStart: 'flex justify-start items-start',
     paragraph: 'font-normal font-monserrat text-[18] leading-[30.8px] text-silver',
-    heading: 'font-monserrat font-semibold text-white xs:text-[48px] text-[40px] xs:leading-[76.8px] leading-[66.8px] w-full'
+    heading: 'font-monserrat font-semibold text-white xs:text-[48px] text-[41px] xs:leading-[76.8px] leading-[66.8px] w-full'
 }
