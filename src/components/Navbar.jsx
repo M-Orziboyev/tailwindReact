@@ -13,6 +13,7 @@ function Navbar() {
                 <li>{nav.title}</li>
             ))}
         </ul>
+        <p>Muzaffar</p>
     </div>;
 }
 
